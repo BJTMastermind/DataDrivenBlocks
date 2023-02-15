@@ -1,0 +1,21 @@
+# Compiled class files
+*.class
+
+# gradle
+/.gradle/
+/build/
+
+# vscode
+/.settings/
+/.vscode/
+
+# fabric
+/bin/
+/run/
+
+# Package Files
+*.jar
+*.zip
+
+# Misc Files
+*.directory
