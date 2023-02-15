@@ -1,29 +1,12 @@
-<h1 align="center">Template Repository</h1>
+<p align="center"><img src="src/main/resources/assets/datadrivenblocks/icon.png" width="128"></p>
+<h1 align="center">Data Driven Blocks</h1>
 
-  A Template Repository That I Can Use to Make New Repositories I Make in The Future Easier.                                                                                         
+<p align="center">Adds support to add custom blocks to the game using datapacks!</p>                                                                                         
 
-## Plan To Add / To Do
+---
 
-- [ ] Item 1
-- [ ] Item 2
-- [ ] Item 3
+Inspired by the custom block system on Minecraft: Bedrock Edition
 
-## How To Use (UI)
+## Credits
 
-Coming Soon.
-
-## How To Use (Command Line)
-
-Coming Soon.
-
-## Minimum \<Insert Language Here> Version
-
-* Version of Language 
-
-## About This Project
-
-This is a template repository that I can use to make new repositories I make in the future easier.
-
-# Screen Shots
-
-Coming Soon.
+* BJTMastermind
