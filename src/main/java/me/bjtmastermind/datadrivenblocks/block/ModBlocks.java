@@ -15,6 +15,8 @@ import net.minecraft.util.Identifier;
 public class ModBlocks {
     public static final Block UNKNOWN_BLOCK = registerBlock("unknown",
         new UnknownBlock(FabricBlockSettings.of(Material.STONE).breakInstantly().resistance(0f).hardness(0f).mapColor(MapColor.DIRT_BROWN)));
+    public static final Block INVISIBLE_BEDROCK = registerBlock("invisible_bedrock",
+        new InvisibleBedrock(FabricBlockSettings.of(Material.BARRIER).resistance(3600000.8f).hardness(-1).dropsNothing().nonOpaque().noBlockBreakParticles()));
 
     public static void registerModBlocks() {
         DataDrivenBlocksMod.LOGGER.info("Registering mod blocks for "+DataDrivenBlocksMod.MODID);
