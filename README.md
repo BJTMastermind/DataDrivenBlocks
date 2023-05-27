@@ -1,5 +1,5 @@
 <p align="center"><img src="src/main/resources/assets/datadrivenblocks/icon.png" width="128"></p>
-<h1 align="center">Data Driven Blocks</h1>
+<h1 align="center">Data Driven Blocks [Discontinued]</h1>
 
 <p align="center">Adds support to add custom blocks to the game using datapacks!</p>                                                                                         
 
